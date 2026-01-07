@@ -2,11 +2,6 @@
 
 AI-powered assistant for drafting SEC Form 10-K Business (Item 1) and MD&A (Item 7) sections using Retrieval-Augmented Generation (RAG).
 
-## Requirements
-
-- **Python 3.9 - 3.13** (Python 3.14 may have compatibility issues with some dependencies)
-- OpenAI API key
-
 ## Quick Start (For Reviewers)
 
 The repository includes pre-downloaded 10-K filings and pre-built vector index. You only need to:
